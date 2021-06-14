@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>AK software soluations release Nexus Repository</name>
-	      <url>http://65.2.79.203:8081/repository/pipelinetest-release/</url>
+	      <url>http://65.2.79.203:8081/repository/scriptedway-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>AK software solutions snapshot Nexus Repository </name>
-	      <url>http://65.2.79.203:8081/repository/pipelinetest-snapshot/</url>
+	      <url>http://65.2.79.203:8081/repository/scriptedway-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
