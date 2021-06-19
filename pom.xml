@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>AK software soluations release Nexus Repository</name>
-	      <url>http://52.66.241.98:8081/repository/testing_scriptedway-release/</url>
+	      <url>http://52.66.241.98:8081/repository/testing_declarativeway-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>AK software solutions snapshot Nexus Repository </name>
-	      <url>http://52.66.241.98:8081/repository/testing_scriptedway-snapshot/</url>
+	      <url>http://52.66.241.98:8081/repository/testing_declarativeway-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
